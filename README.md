@@ -12,3 +12,4 @@ Fonte dos dados: https://www.kaggle.com/blastchar/telco-customer-churn
 - Decision Tree
 - SVM
 - XGBoost
+- Rede neural
